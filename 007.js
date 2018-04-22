@@ -1,3 +1,6 @@
+$(document).ready(function() {
+    f1();
+});
 function f1() 
 {
     var elements = document.getElementsByClassName("007");
