@@ -6,6 +6,4 @@ var i;
 for(i = 0; i<elements.length; i++)
 {
   elements[i].setAttribute("href", results['data'])
-    return false;
-  };
 }
