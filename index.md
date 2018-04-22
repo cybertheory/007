@@ -17,6 +17,6 @@ You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh
 <a href="#" class="007">(Text)</a>
 ```
 ### Demo
-Click [here](index.html) for a demo
+Click [here](/demo/index.html) for a demo
  
 
