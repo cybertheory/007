@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to 007
 
-You can use the [editor on GitHub](https://github.com/cybertheory/007/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh1) you backlinks.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
