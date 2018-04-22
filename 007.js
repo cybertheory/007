@@ -3,7 +3,7 @@ var results = blockspring.runParsed("query-public-google-spreadsheet", { "query"
     console.log(res.params);
   })
 var i;
-for(var i = 0; i<elements.length; i++)
+for(i = 0; i<elements.length; i++)
 {
   elements[i].onlick()= function() {
     elements[i].setAttribute("href", results['data'])
