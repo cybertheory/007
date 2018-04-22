@@ -4,7 +4,7 @@ You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh
 
 ### What are we About
 
-007 is a crime-fighting, easy-to-use, powerful backlink tool just copy and paste the javascript and implement links elements in your html with the id "007". Every time the website loads a new link will populate each of the link elements, see simple. The premise is to get enough people to implement this on their site that when search enignes crawl, every site will have a chance to get at least one reputable backlink. Please, we want to keep this community spam free, so only post reputable site to the backlink submission form. 
+007 is a crime-fighting, easy-to-use, powerful backlink tool. Just copy and paste the javascript and implement links elements in your html with the id "007". Every time the website loads a new link, hopefully, will populate each of the link elements, See Simple. The premise is to get enough people to implement this on their site that when search enignes crawl, every site will have a chance to get at least one reputable backlink. Please, we want to keep this community spam free, so only post reputable site to the backlink submission form. 
 
 ```markdown
 007 javascript copy below
