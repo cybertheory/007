@@ -5,8 +5,7 @@ var results = blockspring.runParsed("query-public-google-spreadsheet", { "query"
 var i;
 for(i = 0; i<elements.length; i++)
 {
-  elements[i].onlick()= function() {
-    elements[i].setAttribute("href", results['data'])
+  elements[i].setAttribute("href", results['data'])
     return false;
   };
 }
