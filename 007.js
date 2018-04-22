@@ -3,8 +3,8 @@ var results = blockspring.runParsed("query-public-google-spreadsheet", { "query"
     console.log(res.params);
   })
 var i;
-var j = Math.floor(Math.random()) * (results['data'].length-1);
+var j = Math.floor(Math.random()) * (results['data']['Submit Your Backlink [http:// or https://(your_website_here)'].length-1);
 for(i = 0; i<elements.length; i++)
 {
-  elements[i].setAttribute("href", results['data'][j])
+  elements[i].setAttribute("href", results['data']['Submit Your Backlink [http:// or https://(your_website_here)]'][j])
 }
