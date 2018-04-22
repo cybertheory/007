@@ -15,6 +15,6 @@ function f1()
     doument.write(j);
     for(i = 0; i<elements.length; i++)
     {
-      elements[i].setAttribute("href", results[j]);
+      elements[i].setAttribute("href", results["data"][j]["Submit Your Backlink [http:// or https://(your_website_here)]"]);
     }
 }
