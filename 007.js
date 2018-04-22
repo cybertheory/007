@@ -9,9 +9,9 @@ function f1()
         results=res.params;
       })
     var i;
-    var j = Math.floor(Math.random()) * (results.length);
     for(i = 0; i<elements.length; i++)
     {
+      var j = Math.floor(Math.random()) * results["data"].length;
       elements[i].setAttribute("href", results["data"][j]["Submit Your Backlink [http:// or https://(your_website_here)]"]);
     }
 }
