@@ -13,7 +13,7 @@ You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh
 //007 javascript Copy and Paste into your header
 <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="https://cdn.blockspring.com/blockspring.js"></script>
-<script src="https://rawgit.com/cybertheory/Backlink-007/master/007.js"></script>
+<script src="https://cdn.rawgit.com/cybertheory/Backlink-007/master/007.js"></script>
 
 //link element demo
 <a href="#" class="007">(Text)</a>
