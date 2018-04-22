@@ -1,37 +1,14 @@
 ## Welcome to 007
 
-You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh1) you backlinks.
+You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh1) you backlinks. "Do unto others as you have them do unto you".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What are we About
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+007 is a crime-fighting, easy-to-use, powerful backlink tool just copy and paste the javascript and implement links elements in your html with the id "007". Every time the website loads a new link will populate each of the link elements, see simple. The premise is to get enough people to implement this on their site that when search enignes crawl, every site will have a chance to get at least one reputable backlink. Please, we want to keep this community spam free, so only post reputable site to the backlink submission form. 
 
 ```markdown
-Syntax highlighted code block
+007 javascript copy below
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cybertheory/007/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
