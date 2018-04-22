@@ -7,7 +7,7 @@ You can use the following form to [submit](https://goo.gl/forms/cOYU57mxBtrD7mWh
 007 is a crime-fighting, easy-to-use, powerful backlink tool. Just copy and paste the javascript and implement links elements in your html with the id "007". Every time the website loads a new link, hopefully, will populate each of the link elements, See Simple. The premise is to get enough people to implement this on their site that when search enignes crawl, every site will have a chance to get at least one reputable backlink. Please, we want to keep this community spam free, so only post reputable site to the backlink submission form. 
 
 ```markdown
-007 javascript Copy and Paste into your header
+//007 javascript Copy and Paste into your header
 <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="https://cdn.blockspring.com/blockspring.js"></script>
 <script src="https://rawgit.com/cybertheory/Backlink-007/master/007.js"></script>
