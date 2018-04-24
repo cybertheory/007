@@ -1,4 +1,4 @@
-## Welcome to 007
+## Welcome to 007 (This tool is not working anymore, we will get back to it)
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXEWum2fU8wSXhz-FcgCuS7g0MgLm32oMGtXwYEuS7jAg_JozEQ) 
 
